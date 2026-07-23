@@ -54,6 +54,6 @@
 
 ## 📈 **Results & Key Findings**
 
-* Our neural network using Stochastic Gradient Descent (SGD) optimization algorithm and Binary Cross-Entropy for the loss function achieved 93.3% accuracy with 0.17 loss.
+* Our neural network using Stochastic Gradient Descent (SGD) optimization algorithm and Binary Cross-Entropy for the loss function achieved 83.3% accuracy with 0.17 loss.
 
 
